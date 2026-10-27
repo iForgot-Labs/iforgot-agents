@@ -4,7 +4,7 @@ Claude adds iForgot by its server URL, so this folder has no package file.
 
 ## One click
 
-1. Choose [Add to Claude](https://claude.ai/settings/connectors?modal=add-custom-connector&name=iForgot&url=https%3A%2F%2Fmcp.iforgot.ai%2Fmcp).
+1. Choose [Add to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=iForgot&connectorUrl=https%3A%2F%2Fmcp.iforgot.ai%2Fmcp).
 2. In Claude, choose Add.
 3. Sign in to iForgot and choose Allow.
 

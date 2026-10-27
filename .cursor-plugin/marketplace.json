@@ -1,0 +1,14 @@
+{
+  "name": "iforgot",
+  "owner": {
+    "name": "Caspian",
+    "email": "support@iforgot.ai"
+  },
+  "plugins": [
+    {
+      "name": "iforgot",
+      "source": "./cursor",
+      "description": "Find and read the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyin. Read only: it never changes anything. Needs iForgot Plus or Pro."
+    }
+  ]
+}
