@@ -6,7 +6,7 @@ iForgot keeps the posts you like and save on X, Instagram, TikTok, RedNote and D
 
 iForgot can search your likes and saves and open a saved post: its text, images, tags, link, platform and date. It can’t change, tag or delete anything, and never sees your passwords, sign-ins to other apps, email or plan. Only what you ask about comes into the chat, and iForgot never sees your chats.
 
-Needs iForgot Plus or Pro (the free trial counts), from the iPhone app. Sign in to iForgot and tap Allow.
+Needs iForgot Plus or Pro. Sign in to iForgot and tap Allow.
 
 ## Read only
 
@@ -41,10 +41,6 @@ The same for every agent.
 ### It asks you to sign in again
 
 Its access to iForgot ran out. Sign in and choose Allow again. Nothing is lost.
-
-### It says you need a plan
-
-Agents come with Plus and Pro, and the free trial counts. Start or renew in the iPhone app, then ask again.
 
 ### Nothing comes back
 
