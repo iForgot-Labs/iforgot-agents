@@ -1,0 +1,44 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "iforgot",
+  "version": "1.0.0",
+  "description": "Find and read the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyin. Read only: it never changes anything. Needs iForgot Plus or Pro.",
+  "author": {
+    "name": "Caspian",
+    "email": "support@iforgot.ai",
+    "url": "https://iforgot.ai"
+  },
+  "homepage": "https://iforgot.ai/agents",
+  "repository": "https://github.com/iforgot-labs/iforgot-agents",
+  "license": "MIT",
+  "keywords": [
+    "likes",
+    "saves",
+    "posts",
+    "library"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "iForgot",
+        "shortDescription": "Search your likes and saves",
+        "longDescription": "iForgot keeps the posts you like and save on X, Instagram, TikTok, RedNote and Douyin in one library. Ask about them in plain words: find the cafés and walks you saved in Tokyo, pull up a recipe you liked, or check what a creator said about a route.\n\niForgot can search your likes and saves and open a saved post: its text, images, tags, link, platform and date. It can’t change, tag or delete anything, and never sees your passwords, sign-ins to other apps, email or plan. Only what you ask about comes into the chat, and iForgot never sees your chats.\n\nNeeds iForgot Plus or Pro (the free trial counts), from the iPhone app. Sign in to iForgot and tap Allow.",
+        "developerName": "Caspian",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://iforgot.ai",
+        "supportURL": "https://iforgot.ai/help",
+        "privacyPolicyURL": "https://iforgot.ai/privacy",
+        "termsOfServiceURL": "https://iforgot.ai/terms",
+        "defaultPrompt": [
+          "Find the cafés and walks I saved in Tokyo",
+          "What did trailsbyjun say about the Dolomites route?",
+          "Find the recipes I liked"
+        ],
+        "brandColor": "#171717",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/icon.png"
+      }
+    }
+  }
+}

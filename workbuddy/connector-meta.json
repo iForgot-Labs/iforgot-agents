@@ -1,0 +1,22 @@
+{
+  "name": "iForgot",
+  "name_en": "iForgot",
+  "name_zh": "iForgot",
+  "description": "查找和阅读你在 X、Instagram、TikTok、小红书和抖音上点赞和收藏的内容。只读，不会改动任何东西。需要 iForgot Plus 或 Pro。",
+  "description_zh": "查找和阅读你在 X、Instagram、TikTok、小红书和抖音上点赞和收藏的内容。只读，不会改动任何东西。需要 iForgot Plus 或 Pro。",
+  "description_en": "Find and read the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyin. Read only: it never changes anything. Needs iForgot Plus or Pro.",
+  "source": "iforgot",
+  "type": "mcp",
+  "version": "1.0.0",
+  "minWorkbuddyVersion": "4.24.0",
+  "examples_zh": [
+    "找出我收藏的东京咖啡店和散步路线",
+    "trailsbyjun 那篇多洛米蒂路线是怎么说的？",
+    "找出我点赞过的菜谱"
+  ],
+  "examples_en": [
+    "Find the cafés and walks I saved in Tokyo",
+    "What did trailsbyjun say about the Dolomites route?",
+    "Find the recipes I liked"
+  ]
+}

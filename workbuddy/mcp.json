@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "iforgot": {
+      "type": "streamableHttp",
+      "url": "https://mcp.iforgot.ai/mcp",
+      "timeout": 30000
+    }
+  }
+}
