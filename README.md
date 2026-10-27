@@ -122,7 +122,7 @@ In Cursor, [Add to Cursor](https://cursor.com/en/install-mcp?name=iForgot&config
 Ask in your own words. Your agent looks it up in iForgot, then answers.
 
 - “Find the cafés and walks I saved in Tokyo” — Searches your saves from all five apps.
-- “What did trailsbyjun say about the Dolomites route?” — Opens that post and reads it.
+- “What did Jun say about the Dolomites route?” — Opens that post and reads it.
 - “Find the recipes I liked” — Looks only at your likes.
 
 ## If something goes wrong
